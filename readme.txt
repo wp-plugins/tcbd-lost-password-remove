@@ -13,6 +13,7 @@ This plugin will enable to removes the ability for non admin users to reset/lost
 
 = Plugin Features =
 
+* Very Lightweight. Only 2.5KB.
 * (improve website security) If you want to remove reset/lost password remover option in your wordpress then just use this plguin. Removes the ability for non admin users to reset/lost password remover/ their passwords option.
 
 == Screenshots ==
