@@ -4,7 +4,7 @@ Plugin Name: TCBD Lost Password Remover
 Plugin URI: http://demos.tcoderbd.com/wordpress_plugins/tcbd-lost-password-remover
 Description: This plugin will enable to remove the lost password link form your Wordpress theme in login page.
 Author: Md Touhidul Sadeek
-Version: 1.1
+Version: 1.0
 Author URI: http://tcoderbd.com
 */
 
